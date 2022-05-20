@@ -9,7 +9,7 @@ Carros e bicicletas é um site na qual anuncia um tipo de carro e uma bicicleta,
 ### <a href="https://luizfelipe9627.github.io/carros-e-bicicletas">Acesse o site</a>
 
 ## 📑 Observação
-Site criado a partir de um exericio feito na Origamid.
+Site criado a partir de um exercício feito na Origamid.
 
 ## 🔍 Layout 
 Este layout foi criado por André Rafael no curso realizado pela Origamid.
