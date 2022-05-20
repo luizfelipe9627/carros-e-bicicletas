@@ -12,7 +12,7 @@ Carros e bicicletas é um site na qual anuncia um tipo de carro e uma bicicleta,
 Site criado a partir de um exercício feito na Origamid.
 
 ## 🔍 Layout 
-Este layout foi criado por André Rafael no curso realizado pela Origamid.
+Este layout foi criado por André Rafael no curso realizado através da Origamid.
 
 ### <a href="https://www.origamid.com/">Acessar o site</a>
 
