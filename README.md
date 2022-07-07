@@ -6,7 +6,7 @@
 ## 📄 Descrição
 Carros e bicicletas é um site na qual anuncia um tipo de carro e uma bicicleta, dando a opção de compra.
 
-### <a href="https://luizfelipe9627.github.io/carros-e-bicicletas">Acesse o site</a>
+### <a href="https://luizfelipe9627-carros-e-bicicletas.netlify.app/">Acesse o site</a>
 
 ## 📑 Observação
 Site criado a partir de um exercício feito na Origamid.
