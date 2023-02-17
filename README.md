@@ -1,7 +1,7 @@
 # Carros e Bicicletas
 ![Badge](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)   
 
-<img src="https://github.com/luizfelipe9627/carros-e-bicicletas/blob/master/assets/image/carros-e-bicicletas.png" alt="Apresentação do Carros e Bicicletas">
+<img src="https://github.com/luizfelipe9627/carros-e-bicicletas/blob/main/assets/image/carros-e-bicicletas.png" alt="Apresentação do Carros e Bicicletas">
 
 ## 📄 Descrição
 Carros e bicicletas é um site na qual anuncia um tipo de carro e uma bicicleta, dando a opção de compra.
@@ -14,7 +14,7 @@ Site criado a partir de um exercício feito na Origamid.
 ## 🔍 Layout 
 Este layout foi criado por André Rafael no curso realizado através da Origamid.
 
-### <a href="https://www.origamid.com/curso/html-e-css-para-iniciantes/">Acesse o módulo do curso</a>
+### <a href="https://www.origamid.com/curso/html-e-css-para-iniciantes/">Acesse o curso</a>
 
 ## 💻 Tecnologias utilizadas
 
